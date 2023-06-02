@@ -1,0 +1,32 @@
+{
+  "home": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  
+    "admin": [
+      {
+        
+        "email": "kavya@gmail.com",
+        "password": 123
+      } ,
+  
+      {
+        
+        "email": "gandhi@gmail.com",
+        "password": 123
+      }
+,
+      {
+        
+        "email": "gandhi1@gmail.com",
+        "password": 123
+      }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
